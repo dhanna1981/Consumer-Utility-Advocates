@@ -1,6 +1,6 @@
 const contentful = require("contentful");
 
 export default contentful.createClient({
-  space: process.env.REACT_APP_API_SPACE,
-  accessToken: process.env.REACT_APP_ACCESS_TOKEN
+  space: "r5i1uo4nz8am",
+  accessToken: "6sOSv3JjLo4qMLWY2O3doFRID1sxKLradbmE2A5gpWc"
 });
